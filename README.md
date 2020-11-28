@@ -3,7 +3,7 @@
 
 Spring boot Back-end API
 
-==서비스==
+마이크로서비스 목록
 login-service
 - 로그인 및 회원가입
 1. 로그인 API
@@ -25,5 +25,5 @@ file-store-service
 2. 여러 이미지 파일 업로드 API
 3. 이미지 파일 다운로드 API
 
-==DB 설계==
+DB 설계
 추가예정
